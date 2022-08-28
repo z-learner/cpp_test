@@ -1,0 +1,3 @@
+/home/friden/test/boost_timer/build/CMakeFiles/rebuild_cache.dir
+/home/friden/test/boost_timer/build/CMakeFiles/edit_cache.dir
+/home/friden/test/boost_timer/build/CMakeFiles/boost_test.dir

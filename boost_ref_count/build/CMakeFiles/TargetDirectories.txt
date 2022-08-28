@@ -1,0 +1,3 @@
+/home/friden/test/boost_ref_count/build/CMakeFiles/rebuild_cache.dir
+/home/friden/test/boost_ref_count/build/CMakeFiles/edit_cache.dir
+/home/friden/test/boost_ref_count/build/CMakeFiles/boost_test.dir

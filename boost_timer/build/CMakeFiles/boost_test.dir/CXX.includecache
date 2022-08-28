@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/friden/test/boost_timer/src/main.cc
+boost/timer/timer.hpp
+-
+chrono
+-
+thread
+-
+iostream
+-
+

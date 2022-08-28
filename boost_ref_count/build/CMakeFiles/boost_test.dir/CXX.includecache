@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ref_count.hpp
+boost/atomic.hpp
+-
+boost/intrusive_ptr.hpp
+-
+boost/memory_order.hpp
+-
+
+/home/friden/test/boost_ref_count/main.cc
+ref_count.hpp
+/home/friden/test/boost_ref_count/ref_count.hpp
+iostream
+-
+thread
+-
+string
+-
+vector
+-
+chrono
+-
+
